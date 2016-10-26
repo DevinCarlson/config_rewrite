@@ -1,0 +1,11 @@
+{
+  "name": "drupal/config_rewrite",
+  "description": "Changes configuration YAML from config/install|optional with YAML from config/rewrite.",
+  "type": "drupal-module",
+  "homepage": "https://www.drupal.org/project/config_rewrite",
+  "support": {
+    "issues": "https://www.drupal.org/project/issues/config_rewrite"
+  },
+  "license": "GPL-2.0+",
+  "require": {}
+}
